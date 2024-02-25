@@ -1,2 +1,2 @@
-# dappsdk
-Dapps future purposes
+# SDK
+Dapps SDK future purposes
